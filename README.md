@@ -24,11 +24,10 @@
 
 
 ## 📉 Графики
-<img width="598" height="358" alt="Снимок экрана 2025-09-28 175519" src="https://github.com/user-attachments/assets/00aa23c8-3bb7-4ec1-8267-b8ee45c8da3c" />
-<img width="596" height="350" alt="Снимок экрана 2025-09-28 175431" src="https://github.com/user-attachments/assets/32f73d8b-4f04-48db-b392-c9f5e38b2338" />
-<img width="596" height="355" alt="Снимок экрана 2025-09-28 175415" src="https://github.com/user-attachments/assets/a7da8b94-6a43-44b5-8903-0c0402d3a872" />
-<img width="595" height="349" alt="Снимок экрана 2025-09-28 175353" src="https://github.com/user-attachments/assets/2d797d77-ce59-48f1-a2fd-8e748e3ee1a2" />
-
+<img width="1653" height="993" alt="Рисунок2" src="https://github.com/user-attachments/assets/2e343c8e-0ea7-4433-bae7-fec6a8a72698" />
+<img width="1653" height="993" alt="Рисунок1" src="https://github.com/user-attachments/assets/afbd0718-0cf1-48be-b23b-e96e6a58c159" />
+<img width="1653" height="993" alt="Рисунок3" src="https://github.com/user-attachments/assets/215eeca8-8d28-4d0f-95ac-fc95029e8a2c" />
+<img width="1653" height="993" alt="Рисунок4" src="https://github.com/user-attachments/assets/58da9c30-cba1-42ad-a3ad-d76d29157be1" />
 
 
 
